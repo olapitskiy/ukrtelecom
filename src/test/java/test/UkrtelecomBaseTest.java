@@ -32,7 +32,7 @@ public class UkrtelecomBaseTest {
 
       driver.navigate().to(envURL);
     }
-
+/
     @AfterMethod
     public void afterTest() {
         driver.close();
